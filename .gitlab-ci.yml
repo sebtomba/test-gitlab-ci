@@ -1,4 +1,4 @@
-image: openjdk:8u171-jre-slim-stretch
+image: openjdk:8u171-jre-stretch
 
 before_script:
   - apt-get update -y
